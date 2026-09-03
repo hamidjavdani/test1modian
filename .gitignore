@@ -1,0 +1,39 @@
+# Build and IDE output
+**/bin/
+**/obj/
+**/.vs/
+**/Debug/
+**/Release/
+**/dist/
+
+# Restored dependencies
+**/packages/
+**/node_modules/
+
+# Archives and generated packages
+*.rar
+*.zip
+*.7z
+*.nupkg
+
+# Local secrets and certificates
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.key
+*.snk
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.cache
+
